@@ -1,3 +1,5 @@
+# This is no longer being maintened, please refer instead to https://github.com/civic-dashboard/civic-dashboard-web
+
 # Civic Dashboard: Councillors
 
 ## Setup
